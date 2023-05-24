@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculo IMC</string>
+    <string name="app_name_Quilos">Quilos</string>
+    <string name="app_name_Metros">Altura</string>
+</resources>
